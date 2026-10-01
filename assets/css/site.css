@@ -101,7 +101,7 @@
 /* ---------- Inner page hero (shorter version of the jumbotron) ---------- */
 .page-hero {
 	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-		url('../img/Homepage-jumbotron.webp');
+		url('../img/tennis-court.jpg');
 	background-position: center;
 	background-size: cover;
 	color: #fff;
